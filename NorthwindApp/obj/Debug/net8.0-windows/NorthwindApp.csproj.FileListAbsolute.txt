@@ -1,0 +1,102 @@
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\NorthwindApp.exe
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\NorthwindApp.deps.json
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\NorthwindApp.runtimeconfig.json
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\NorthwindApp.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\NorthwindApp.pdb
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\LiveChartsCore.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.WinForms.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\блайт\Desktop\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.csproj.AssemblyReference.cache
+C:\Users\блайт\Desktop\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.Form1.resources
+C:\Users\блайт\Desktop\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.csproj.GenerateResource.cache
+C:\Users\блайт\Desktop\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\блайт\Desktop\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.AssemblyInfoInputs.cache
+C:\Users\блайт\Desktop\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.AssemblyInfo.cs
+C:\Users\блайт\Desktop\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.csproj.CoreCompileInputs.cache
+C:\Users\блайт\Desktop\NorthwindApp\obj\Debug\net8.0-windows\Northwin.21DCEB70.Up2Date
+C:\Users\блайт\Desktop\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.dll
+C:\Users\блайт\Desktop\NorthwindApp\obj\Debug\net8.0-windows\refint\NorthwindApp.dll
+C:\Users\блайт\Desktop\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.pdb
+C:\Users\блайт\Desktop\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.genruntimeconfig.cache
+C:\Users\блайт\Desktop\NorthwindApp\obj\Debug\net8.0-windows\ref\NorthwindApp.dll
+C:\Users\блайт\Desktop\NorthwindApp\bin\Debug\net8.0-windows\northwind.db
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\northwind.db
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\NorthwindApp.exe
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\NorthwindApp.deps.json
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\NorthwindApp.runtimeconfig.json
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\NorthwindApp.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\NorthwindApp.pdb
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\EntityFramework.SqlServer.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\EntityFramework.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\LiveChartsCore.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\LiveChartsCore.SkiaSharpView.WinForms.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\OpenTK.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\SkiaSharp.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\SkiaSharp.Views.WindowsForms.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\System.Data.SQLite.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.csproj.AssemblyReference.cache
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.Form1.resources
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.csproj.GenerateResource.cache
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.AssemblyInfoInputs.cache
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.AssemblyInfo.cs
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.csproj.CoreCompileInputs.cache
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\obj\Debug\net8.0-windows\Northwin.21DCEB70.Up2Date
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\obj\Debug\net8.0-windows\refint\NorthwindApp.dll
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.pdb
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\obj\Debug\net8.0-windows\NorthwindApp.genruntimeconfig.cache
+C:\Users\блайт\Desktop\долги\4. Объектно-ориентированное программирование\NorthwindApp\obj\Debug\net8.0-windows\ref\NorthwindApp.dll
